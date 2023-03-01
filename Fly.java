@@ -3,7 +3,7 @@ public interface Fly {
 
     int ascend(int meters);
 
-   void glide();
+    void glide();
 
     int descend(int meters);
 
